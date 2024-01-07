@@ -1,0 +1,32 @@
+ {
+    "emails" : [
+        {
+            "id": 1,
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Obcaecati reprehenderit, fuga repudiandae rerum sequi vero repellat nemo cumque sint quos in iusto molestias inventore blanditiis voluptates placeat, sed saepe laboriosam?",
+            "name": "John Doe",
+            "email": "john_doe@gmail.com",
+            "isRead" : true
+        },
+        {
+            "id": 2,
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Obcaecati reprehenderit, fuga repudiandae rerum sequi vero repellat nemo cumque sint quos in iusto molestias inventore blanditiis voluptates placeat, sed saepe laboriosam?",
+            "name": "Sam Smith",
+            "email": "sam_smith@gmail.com",
+            "isRead" : true
+        },
+        {
+            "id": 3,
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Obcaecati reprehenderit, fuga repudiandae rerum sequi vero repellat nemo cumque sint quos in iusto molestias inventore blanditiis voluptates placeat, sed saepe laboriosam?",
+            "name": "Shaun Logan",
+            "email": "shaun_logan@gmail.com",
+            "isRead" : true
+        },
+        {
+            "id": 4,
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Obcaecati reprehenderit, fuga repudiandae rerum sequi vero repellat nemo cumque sint quos in iusto molestias inventore blanditiis voluptates placeat, sed saepe laboriosam?",
+            "name": "Kelvin Cat",
+            "email": "kelvin_cat@gmail.com",
+            "isRead" : true
+        }
+    ]
+}
